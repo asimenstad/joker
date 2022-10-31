@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/asimenstad/joker/issues"
   },
-  "homepage": "https://github.com/asimenstad/joker#readme"
+  "homepage": "https://github.com/asimenstad/joker#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
