@@ -18,9 +18,6 @@
     "url": "https://github.com/asimenstad/joker/issues"
   },
   "homepage": "https://github.com/asimenstad/joker#readme",
-  "dependencies": {
-    "one-liner-joke": "^1.2.2"
-  },
   "devDependencies": {
     "prettier": "^2.7.1"
   }
